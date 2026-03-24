@@ -36,9 +36,8 @@ Fui docente de Bases de Datos II en UTN FRT. Egresado como Técnico Universitari
 
 ## Proyectos
 
-## Proyectos
-
 | Proyecto | Descripción |
+|---|---|
 | [Pueble Maquinarias](https://www.pueblemaquinarias.com.ar/) | Sitio institucional para distribuidor oficial de Case & JCB en Argentina |
 | [CP Motors — KIA Tucumán](https://www.cpmotors.com.ar/) | Sitio de concesionario con catálogo de modelos y generación de leads |
 | [Semage — BAIC Tucumán](https://www.baictucuman.com.ar/) | Sitio de concesionario siguiendo lineamientos de marca BAIC |
