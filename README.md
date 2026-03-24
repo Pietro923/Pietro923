@@ -38,10 +38,10 @@ Fui docente de Bases de Datos II en UTN FRT. Egresado como Técnico Universitari
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [Pueble Maquinarias](https://www.pueblemaquinarias.com.ar/) | Sitio concesionario para distribuidor oficial de Case & JCB en Argentina.
-| [CP Motors — KIA Tucumán](https://www.cpmotors.com.ar/) | Sitio de concesionario con catálogo de modelos y generación de leads.
-| [Semage — BAIC Tucumán](https://www.baictucuman.com.ar/) | Sitio de concesionario siguiendo lineamientos de marca BAIC.
-| [GPLink](https://www.gplink.com.ar/) | Hub de links personalizado para las marcas del Grupo Pueble.
+| [Pueble Maquinarias](https://www.pueblemaquinarias.com.ar/) | Sitio institucional para distribuidor oficial de Case & JCB en Argentina | Next.js, TypeScript, Tailwind |
+| [CP Motors — KIA Tucumán](https://www.cpmotors.com.ar/) | Sitio de concesionario con catálogo de modelos y generación de leads | Next.js, TypeScript, Tailwind |
+| [Semage — BAIC Tucumán](https://www.baictucuman.com.ar/) | Sitio de concesionario siguiendo lineamientos de marca BAIC | Next.js, TypeScript, Tailwind |
+| [GPLink](https://www.gplink.com.ar/) | Hub de links personalizado para las marcas del Grupo Pueble | Next.js, TypeScript, Tailwind |
 
 ---
 
@@ -54,5 +54,7 @@ Fui docente de Bases de Datos II en UTN FRT. Egresado como Técnico Universitari
 
 ## Contacto
 
-[LinkedIn](https://linkedin.com/in/pietrobonacossa) · [jpbonacossa@gmail.com](mailto:jpbonacossa@gmail.com) · [pietrocode.com](https://pietrocode.com)
+[LinkedIn](https://linkedin.com/in/pietrobonacossa) 
+[jpbonacossa@gmail.com](mailto:jpbonacossa@gmail.com) 
+[pietrocode.com](https://pietrocode.com)
 ```
