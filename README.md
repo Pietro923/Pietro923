@@ -47,8 +47,7 @@ Fui docente de Bases de Datos II en UTN FRT. Egresado como Técnico Universitari
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pietro923&theme=aura)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro923&theme=aura)
+[![Pietro923's GitHub stats](https://streak-stats.demolab.com?user=Pietro923&theme=aura)](https://git.io/streak-stats)
 
 ---
 
